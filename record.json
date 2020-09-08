@@ -1,0 +1,20 @@
+{
+    "books": [
+        ["Black Panter", "Ismail", "1995", "1"],
+        ["Ali Baba and Chalis Chor", "Waqas", "2005", "80"]
+    ],
+    "members": [
+        ["Ali Ahmed", "34201-5859596-3", "12-09-1998"],
+        ["Umar Ahmed", "34201-8596932-0", "02-05-2001"],
+        ["Abdullah latif", "34201-9685953-9", "11-11-2002"]
+    ],
+    "booksIssued": [
+        ["Black Panter", "Ali Ahmed", "08-09-2020", "08-09-2020"],
+        [
+            "Ali Baba and Chalis Chor",
+            "Abdullah latif",
+            "08-09-2020",
+            "00-00-0000"
+        ]
+    ]
+}
